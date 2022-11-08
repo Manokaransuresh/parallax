@@ -1,0 +1,116 @@
+body{
+    margin: 0%;
+
+}
+#cl{
+    background-image: url(../image/image1.jpg);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    position:relative ;
+}
+#h1{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.681);
+    width:350px;
+    font-size:2rem;
+    text-align: center;
+    /* margin-left:1450px; */
+    position:absolute;
+    top:40% ;
+    left:39%;
+    /* opacity:0.; */
+    /* margin-top: 500px; */
+}
+#lc{
+    background-color: white;
+    width:100%;
+    font-size:2rem;
+    height:300px;
+    text-align: center;
+    margin-top:10px;
+    /* margin-bottom:20px; */
+    /* margin-bottom: 20px; */
+}
+#al{
+    background-image:url(../image/image2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:750px;
+}
+#di{
+text-align:center;
+margin-top: 10px;
+}
+ #im{
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.681); */
+    width:300px;
+    font-size:2rem;
+    text-align:center;
+    /* margin-left: ; */
+    position:absolute;
+    top:30% ;
+    left:40%;
+    margin-top:1200px;
+}
+#ic{
+    background-color: black;
+    color: white;
+    height: 360px;
+    text-align: center;
+    font-size: 2rem;
+    margin-top:-70px;
+    margin-bottom:-30px;
+}
+#no{
+    background-image: url(../image/image3.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:750px;
+
+}
+#yes{
+    color: white;
+    width:900px;
+    font-size:1.5rem;
+    /* font-weight:10px; */
+    text-align:center;
+    position:absolute;
+    /* top:30% ; */
+    left:20%;
+    margin-top:300px;
+}
+#on{
+    background-image: url(../image/image1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height:870px;
+    /* position: fixed; */
+    /* margin-bottom:-60px; */
+}
+#sey{ 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.681);
+    width:430px;
+    font-size:2rem;
+    text-align: center;
+    margin-left:480px;
+    margin-top:410px;
+    position: absolute;
+}
+#ye{
+    /* height:50px; */
+    /* width:100%; */
+    /* position: absolute; */
+    /* margin-top: 150px; */
+    /* top: 0px; */
+    /* left: 50px; */
+    /* padding-bottom: 10px; */
+    
+
+}
